@@ -4,3 +4,4 @@ livrables/
 *.csv
 *.cred
 *.xml
+secrets/
