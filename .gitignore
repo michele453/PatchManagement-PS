@@ -1,0 +1,6 @@
+output/
+livrables/
+*.log
+*.csv
+*.cred
+*.xml
