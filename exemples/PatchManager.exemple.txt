@@ -1,0 +1,50 @@
+﻿19/10/2026 10:58:49 ; Debut de l'audit
+19/10/2026 10:58:52 ; VM1 ; Accessible
+19/10/2026 10:58:52 ; VM1 ; Conforme
+19/10/2026 10:59:13 ; FICTIF ; WinRM inaccessible
+19/10/2026 10:59:13 ; Rapport genere
+19/10/2026 10:59:13 ; Fin de l'audit
+20/10/2026 15:23:07 ; Debut de l'audit
+20/10/2026 15:23:11 ; VM1 ; Accessible
+20/10/2026 15:23:11 ; VM1 ; Conforme
+20/10/2026 15:23:32 ; FICTIF ; WinRM inaccessible
+20/10/2026 15:23:32 ; Rapport genere
+20/10/2026 15:23:32 ; Fin de l'audit
+20/10/2026 15:23:33 ; ERREUR ; Notification non envoyee
+20/10/2026 15:27:50 ; Debut de l'audit
+20/10/2026 15:27:52 ; VM1 ; Accessible
+20/10/2026 15:27:52 ; VM1 ; Conforme
+20/10/2026 15:28:13 ; FICTIF ; WinRM inaccessible
+20/10/2026 15:28:13 ; Rapport genere
+20/10/2026 15:28:13 ; Fin de l'audit
+20/10/2026 15:28:13 ; ERREUR ; Notification non envoyee
+20/10/2026 15:29:53 ; Debut de l'audit
+20/10/2026 15:29:54 ; VM1 ; Accessible
+20/10/2026 15:29:54 ; VM1 ; Conforme
+20/10/2026 15:29:54 ; Rapport genere
+20/10/2026 15:29:54 ; Fin de l'audit
+20/10/2026 15:29:54 ; Aucune anomalie ; notification non necessaire
+20/10/2026 19:56:07 ; Debut de l'audit
+20/10/2026 19:56:12 ; VM1 ; Accessible
+20/10/2026 19:56:12 ; VM1 ; Conforme
+20/10/2026 19:56:13 ; Rapport genere
+20/10/2026 19:56:13 ; Fin de l'audit
+20/10/2026 19:56:13 ; Aucune anomalie ; notification non necessaire
+20/10/2026 20:25:46 ; Debut de l'audit
+20/10/2026 20:25:46 ; VM1 ; Accessible
+20/10/2026 20:25:46 ; VM1 ; Conforme
+20/10/2026 20:26:07 ; FICTIF ; WinRM inaccessible
+20/10/2026 20:26:08 ; Rapport genere
+20/10/2026 20:26:08 ; Fin de l'audit
+20/10/2026 20:30:11 ; Debut de l'audit
+20/10/2026 20:30:12 ; VM1 ; Accessible
+20/10/2026 20:30:12 ; VM1 ; Conforme
+20/10/2026 20:30:33 ; FICTIF ; WinRM inaccessible
+20/10/2026 20:30:33 ; Rapport genere
+20/10/2026 20:30:33 ; Fin de l'audit
+20/10/2026 21:03:45 ; Debut de l'audit
+20/10/2026 21:03:47 ; VM1 ; Accessible
+20/10/2026 21:03:47 ; VM1 ; Conforme
+20/10/2026 21:03:47 ; Rapport genere
+20/10/2026 21:03:47 ; Fin de l'audit
+20/10/2026 21:03:47 ; Aucune anomalie ; notification non necessaire
