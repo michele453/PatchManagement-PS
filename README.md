@@ -5,10 +5,10 @@ Audit des correctifs de securite d'un parc Windows avec PowerShell Remoting (Win
 ## Prerequis
 - PowerShell 5.1, poste d'administration Windows
 - WinRM actif sur les postes supervises (`Enable-PSRemoting`)
-- Compte d'audit (ex. `patchsvc`, membre de *Remote Management Users*)
+- Compte d'audit (ex. `patchsvc`)
 
 ## Configuration
-- `config/computers.txt` : `NOM;IP`, une machine par ligne
+- `config/computers.txt` :  une machine par ligne
 - `config/required-patches.txt` : un KB obligatoire par ligne
 - `secrets/smtp.cred` (non versionne) : `Get-Credential | Export-Clixml secrets\smtp.cred`
 
